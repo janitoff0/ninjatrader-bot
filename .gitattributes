@@ -1,0 +1,14 @@
+# Exclude build artifacts
+*.ts linguist-detectable
+
+go.sum linguist-generated
+*.svg text
+yarn.lock linguist-generated
+*.min.js linguist-generated
+
+*.gif binary
+
+build/* linguist-vendored
+*.htm linguist-vendored
+*.jpg binary
+src/*.ts linguist-detectable
