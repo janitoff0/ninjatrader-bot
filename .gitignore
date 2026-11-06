@@ -1,0 +1,7 @@
+*.tgz
+.env
+.next/
+.env.local
+dist/
+.pnpm-store/
+*.log
